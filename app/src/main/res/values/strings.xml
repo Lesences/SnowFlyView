@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnowFlyView</string>
+    <string name="hint_duration">Please input duration</string>
+    <string name="start_animation">Start Animation</string>
+    <string name="stop_animation">Stop Animation</string>
+    <string name="text_duration">If the duration less than 300(include 300),it will always
+        falling.And if the duration more than 300, it will stop falling in the duration(all snow must be inited) !</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SnowFlyView">
+        <attr name="snow_initTo" format="dimension" />
+        <attr name="snow_initToTop" format="dimension" />
+        <attr name="snow_initToLeft" format="dimension" />
+        <attr name="snow_initToBottom" format="dimension" />
+        <attr name="snow_initToRight" format="dimension" />
+        <attr name="snow_minScale" format="float" />
+        <attr name="snow_maxScale" format="float" />
+        <attr name="snow_count" format="integer" />
+        <attr name="snow_duration" format="integer" />
+        <attr name="snow_xSpeed" format="float" />
+        <attr name="snow_ySpeed" format="float" />
+        <attr name="snow_bitmap" format="reference" />
+    </declare-styleable>
+</resources>
